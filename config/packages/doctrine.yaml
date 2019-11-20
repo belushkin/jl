@@ -1,0 +1,42 @@
+doctrine:
+    dbal:
+        default_connection: default
+        connections:
+            default:
+                # configure these for your database server
+                url: '%env(DATABASE_URL)%'
+                driver: 'sqlite'
+            mysql:
+                # configure these for your database server
+                url: '%env(DATABASE_MYSQL_URL)%'
+                driver: 'pdo_mysql'
+                server_version: '5.7'
+                charset: utf8mb4
+                default_table_options:
+                    charset: utf8mb4
+                    collate: utf8mb4_unicode_ci
+
+    orm:
+        default_entity_manager: default
+        entity_managers:
+            default:
+                connection: default
+                mappings:
+                    Main:
+                        is_bundle: false
+                        type: annotation
+                        dir: '%kernel.project_dir%/src/Entity/Main'
+                        prefix: 'App\Entity\Main'
+                        alias: Main
+            mysql:
+                connection: mysql
+                mappings:
+                    Customer:
+                        is_bundle: false
+                        type: annotation
+                        dir: '%kernel.project_dir%/src/Entity/Mysql'
+                        prefix: 'App\Entity\Mysql'
+                        alias: Mysql
+#        auto_generate_proxy_classes: true
+#        naming_strategy: doctrine.orm.naming_strategy.underscore
+#        auto_mapping: true

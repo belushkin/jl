@@ -1,0 +1,21 @@
+version: '2'
+services:
+  app:
+    build: .
+    ports:
+      - 9000:9000
+    tty: true
+    links:
+      - db-mysql
+    volumes:
+      - .:/home/app
+
+  db-mysql:
+    image: "mysql:5.7"
+    restart: on-failure
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: app
+    volumes:
+      - ./data/volume/mysql:/var/lib/mysql
+      - ./data/volume/logs/mysql:/var/log/mysql

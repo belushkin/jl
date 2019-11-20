@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a0d1f46-6768-4cc7-a991-a40fdf175c6a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/upfront/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/upfront/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/upfront/vendor/composer" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/orm-pack" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/upfront/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/upfront/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/upfront/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/upfront/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/upfront/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/upfront/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/upfront/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/upfront/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/upfront/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/upfront/vendor/doctrine/doctrine-fixtures-bundle" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/upfront/vendor/symfony/validator" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1TYxSSMxrjYMfWfIBEHVYxsGhUN" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/upfront/src/Service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/upfront/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@afcbf5d0" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@afcbf5d0" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@1014a5bd" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@afcbf5d0" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@544d0c20" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@afcbf5d0" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@2a8fe080" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a0d1f46-6768-4cc7-a991-a40fdf175c6a" name="Default Changelist" comment="" />
+      <created>1573650829862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573650829862</updated>
+      <workItem from="1573650830977" duration="1380000" />
+      <workItem from="1573652223747" duration="16695000" />
+      <workItem from="1573827343568" duration="11900000" />
+      <workItem from="1573839257522" duration="1261000" />
+      <workItem from="1574271040368" duration="276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
